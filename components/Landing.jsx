@@ -6,7 +6,7 @@ export default function Landing() {
     <View>
       <Text variant="displayLarge">NotSoVended</Text>
       <Text variant="headlineMedium">
-        Make your apps seem like they're installed from Play Storea
+        Make your apps seem like they're installed from Play Store
       </Text>
     </View>
   );
